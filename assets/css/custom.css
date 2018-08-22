@@ -1,0 +1,20 @@
+.move-down{
+	margin-bottom : 20px;
+}
+
+.left{
+	float : left;
+	display : inline;
+	padding : 0 !important;
+}
+
+.right {
+	float : left;
+	display : inline;
+	padding : 0 !important;
+}
+
+.error{
+	color : red;
+	border : 1px solid red;
+}
